@@ -7,4 +7,3 @@ else ()
   print "HUH?! SPEAK UP, SONNY!"
 end
 
-return speak_to_grandma
